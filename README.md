@@ -35,9 +35,13 @@ Use the following sample documents to test InvoiceGuard. Upload the Supplier Inv
 
 ![Sample Supplier Invoice](https://github.com/user-attachments/assets/8639a0ed-6678-46f1-b0c7-b5f3240bf32b)
 
+[View Sample Supplier Invoice](https://github.com/user-attachments/assets/8639a0ed-6678-46f1-b0c7-b5f3240bf32b)
+
 ### 2. Sample Purchase Order
 
 ![Sample Purchase Order](https://github.com/user-attachments/assets/8a968100-60e4-4676-93ed-5670f473d200)
+
+[View Sample Purchase Order](https://github.com/user-attachments/assets/8a968100-60e4-4676-93ed-5670f473d200)
 
 ## 🔄 How It Works
 
